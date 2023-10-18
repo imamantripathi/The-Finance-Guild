@@ -1,9 +1,4 @@
-/*
-	Project Name : RedBiz
-	Author Company : SpecThemes
-	Project Date: 24 Feb, 2018
-	Template Developer: vsafaryan50@gmail.com
-*/
+  
 /*
 ==============================================
 TABLE OF CONTENT
@@ -309,7 +304,8 @@ TABLE OF CONTENT
 .section-heading p {
     font-size: 15px;
     font-weight: 400;
-    color: #aaa;
+    color: #A9A9A9
+;
     line-height: 160%;
     padding-top: 15px;
     margin-bottom: 0px;
@@ -706,7 +702,7 @@ TABLE OF CONTENT
 .counter-box p {
     font-size: 15px;
     font-weight: 500;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-top: 10px;
 }
@@ -749,7 +745,7 @@ a) Text-content
 .text-content p {
     font-size: 14px;
     font-weight: 400;
-    color: #999;
+    color: #A9A9A9;
     line-height: 190%;
     margin-bottom: 15px;
 }
@@ -757,7 +753,7 @@ a) Text-content
 .text-content-big p {
     font-size: 15px;
     font-weight: 400;
-    color: #999;
+    color: #A9A9A9;
     line-height: 200%;
     margin-bottom: 15px;
 }
@@ -765,7 +761,7 @@ a) Text-content
 .text-content-small p {
     font-size: 12px;
     font-weight: 400;
-    color: #999;
+    color: #A9A9A9;
     line-height: 200%;
     margin-bottom: 15px;
 }
@@ -1501,7 +1497,7 @@ f) Overlays
 }
 
 .number-box p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 400;
     margin-top: 15px;
@@ -1565,7 +1561,7 @@ f) Overlays
 }
 
 .plane-box-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.6;
@@ -1690,7 +1686,7 @@ f) Overlays
 }
 
 .service-box p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     margin-top: 10px;
@@ -1766,7 +1762,7 @@ f) Overlays
 }
 
 .service-block p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
 }
@@ -1811,7 +1807,7 @@ f) Overlays
 
 .service-simple p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-bottom: 0px;
 }
@@ -1866,7 +1862,7 @@ f) Overlays
 
 .service-box-car-2 p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-bottom: 0px;
 }
@@ -2120,7 +2116,7 @@ f) Overlays
 
 .feature-block p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-bottom: 0px;
 }
@@ -2178,7 +2174,7 @@ f) Overlays
 }
 
 .feature-box p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 500;
     line-height: 170%;
@@ -2296,7 +2292,7 @@ f) Overlays
 }
 
 .feature-flex-content p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     margin-top: 10px;
@@ -2366,7 +2362,7 @@ f) Overlays
 }
 
 .feature-flex-square-content p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     margin-top: 10px;
@@ -2440,7 +2436,8 @@ f) Overlays
 .feature-box-long p {
     font-size: 15px;
     font-weight: 400;
-    color: #aaa;
+    color: #A9A9A9
+;
 }
 
 /*--------------
@@ -2478,7 +2475,7 @@ f) Overlays
 }
 
 .feature-box-2 p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 400;
     line-height: 1.8;
@@ -2659,7 +2656,7 @@ f) Overlays
 }
 
 .feature-box-6-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 400;
     padding-top: 10px;
@@ -2681,7 +2678,7 @@ f) Overlays
 .feature-counter-box p {
     font-size: 14px;
     font-weight: 400;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     padding: 0px;
 }
@@ -3117,7 +3114,7 @@ f) Overlays
 }
 
 .pricing-list-2-prod li {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
     line-height: 1.5;
@@ -3389,7 +3386,7 @@ f) Overlays
 }
 
 .pricing-box-3-price h5 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -3405,7 +3402,7 @@ f) Overlays
 }
 
 .pricing-box-3-prod ul li {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 500;
     line-height: 1.5;
@@ -3527,7 +3524,7 @@ footer {
 
 footer p {
     font-size: 14px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
 }
 
@@ -3586,14 +3583,16 @@ footer h3:after {
 
 .footer-list li {
     list-style-type: none;
-    color: #aaa;
+    color: #A9A9A9
+;
     padding: 6px 0px;
 }
 
 .footer-list li a:before {
     content: '\f105';
     font-family: 'FontAwesome';
-    color: #aaa;
+    color: #A9A9A9
+;
     padding-right: 8px;
     -webkit-transition-duration: .3s;
     transition-duration: .3s;
@@ -3602,7 +3601,8 @@ footer h3:after {
 .footer-list li a {
     font-size: 15px;
     font-weight: 400;
-    color: #aaa;
+    color: #A9A9A9
+;
 }
 
 .footer-list li a:hover {
@@ -3751,7 +3751,7 @@ Blog Grid (Style 1)
 
 .blog-grid-text ul li {
     display: inline-block;
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 500;
     margin: 10px 25px 10px 0px;
@@ -3765,7 +3765,7 @@ Blog Grid (Style 1)
 }
 
 .blog-grid-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     line-height: 170%;
@@ -3820,7 +3820,8 @@ Blog Grid (Style 2)
 }
 
 .blog-grid-simple p {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 15px;
     font-weight: 400;
 }
@@ -3921,7 +3922,7 @@ Blog Grid (Style 3)
 }
 
 .blog-box-text h6 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 0.5px;
@@ -4010,7 +4011,8 @@ Blog List
 
 .blog-list-simple-text p {
     font-size: 14px;
-    color: #aaa;
+    color: #A9A9A9
+;
     line-height: 1.9;
 }
 
@@ -4034,7 +4036,7 @@ Blog List
 }
 
 .blog-list-simple-text ul li {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 500;
     padding: 3px 0px;
@@ -4074,7 +4076,7 @@ Blog Post
 }
 
 .blog-title-box span {
-    color: #999;
+    color: #A9A9A9;
     font-weight: 400;
     margin-right: 40px;
 }
@@ -4086,7 +4088,7 @@ Blog Post
 }
 
 .blog-post-content p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     line-height: 180%;
@@ -4426,7 +4428,7 @@ Blog Post
 
 .comment-form textarea {
     overflow: hidden;
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
     border: none;
@@ -4489,7 +4491,8 @@ Style 1 (Carousel)
 }
 
 .testmonial-single h6 {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 15px;
     font-weight: 500;
     text-align: center;
@@ -4526,7 +4529,7 @@ Style 1 (Carousel)
 }
 
 .testmonial-box span {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
 }
@@ -4540,7 +4543,7 @@ Style 1 (Carousel)
 
 .testmonial-box p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-top: 10px;
 }
@@ -4580,7 +4583,7 @@ Style 3(Carousel)
 
 .testmonial-box-2 p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     font-style: italic;
     line-height: 1.6;
     margin-top: 8px;
@@ -4621,13 +4624,13 @@ Style 4
 }
 
 .testmonial-box-3 h5 span {
-    color: #999;
+    color: #A9A9A9;
 }
 
 .testmonial-box-3 p {
     font-size: 15px;
     font-style: italic;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     margin-top: 20px;
 }
@@ -4713,7 +4716,7 @@ Style 5
 }
 
 .testmonial-item p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     text-align: left;
     font-weight: 400;
@@ -4745,7 +4748,7 @@ Style 5
 }
 
 .testmonial-box-4-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.5;
@@ -4759,7 +4762,7 @@ Style 5
 }
 
 .testmonial-box-4-text h5 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 500;
     margin-top: 3px;
@@ -4855,7 +4858,8 @@ Style 5
 }
 
 .case-block p {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 15px;
     font-weight: 400;
     margin-bottom: 12px;
@@ -4930,7 +4934,7 @@ Style 5
 }
 
 .partner-box:hover .partner-text span {
-    color: #999;
+    color: #A9A9A9;
 }
 
 .partner-text h4 {
@@ -4956,7 +4960,7 @@ Style 5
 }
 
 .partner-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     margin-top: 15px;
@@ -5112,7 +5116,7 @@ Style 5
 }
 
 .team-member-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     font-weight: 400;
     line-height: 170%;
@@ -5212,7 +5216,8 @@ Style 5
 }
 
 .team-info p {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 15px;
     font-weight: 400;
     margin: 15px 0px;
@@ -5652,7 +5657,7 @@ Top Video Section
 }
 
 .project-grid-overlay span {
-    color: #999;
+    color: #A9A9A9;
     font-size: 16px;
     font-weight: 500;
     position: absolute;
@@ -5713,7 +5718,7 @@ Top Video Section
 }
 
 .project-single-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.8;
@@ -5936,7 +5941,7 @@ Top Video Section
 }
 
 .project-info-shortcode-text p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
 }
@@ -6000,7 +6005,7 @@ Top Video Section
 .accordion-body {
     font-size: 15px;
     font-weight: 400;
-    color: #999;
+    color: #A9A9A9;
     line-height: 170%;
     text-align: left;
     border: none !important;
@@ -6800,7 +6805,8 @@ Top Video Section
     font-size: 15px;
     font-weight: 400;
     line-height: 180%;
-    color: #aaa;
+    color: #A9A9A9
+;
     margin-top: 20px;
 }
 
@@ -6857,12 +6863,14 @@ Top Video Section
 .product-categories ul li {
     list-style-type: none;
     display: inline-block;
-    color: #aaa;
+    color: #A9A9A9
+;
     font-weight: 500;
 }
 
 .product-categories ul li a {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 14px;
 }
 
@@ -6874,7 +6882,8 @@ Top Video Section
     content: ' / ';
     display: inline-block;
     font-size: 10px;
-    color: #aaa;
+    color: #A9A9A9
+;
     margin: 0px 5px;
 }
 
@@ -6908,12 +6917,14 @@ Top Video Section
 .product-tags ul li {
     list-style-type: none;
     display: inline-block;
-    color: #aaa;
+    color: #A9A9A9
+;
     font-weight: 500;
 }
 
 .product-tags ul li a {
-    color: #aaa;
+    color: #A9A9A9
+;
     font-size: 14px;
 }
 
@@ -6925,7 +6936,8 @@ Top Video Section
     content: ', ';
     display: inline-block;
     font-size: 10px;
-    color: #aaa;
+    color: #A9A9A9
+;
     margin: 0px 5px;
 }
 
@@ -7707,7 +7719,7 @@ Grid Classic Style
 }
 
 .form-control {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
     line-height: inherit;
     border: 1px solid #ececec;
@@ -7718,7 +7730,7 @@ Grid Classic Style
 
 .form-control:focus {
     box-shadow: none;
-    border-color: #999;
+    border-color: #A9A9A9;
 }
 
 .shop-cart-box-quantity h6 {
@@ -7970,7 +7982,7 @@ Grid Classic Style
 }
 
 .contact-info-section p {
-    color: #999;
+    color: #A9A9A9;
     font-size: 15px;
     font-weight: 400;
 }
@@ -8010,7 +8022,7 @@ Grid Classic Style
 }
 
 .contact-box span {
-    color: #999;
+    color: #A9A9A9;
     font-size: 14px;
 }
 
@@ -8241,7 +8253,7 @@ Styles 4
 
 .tab-body p {
     font-size: 15px;
-    color: #999;
+    color: #A9A9A9;
     line-height: 1.7;
     font-weight: 400;
     margin: 5px;
@@ -8357,7 +8369,8 @@ Styles 4
 }
 
 .custom-dot span:hover {
-    background: #aaa;
+    background: #A9A9A9
+;
     -webkit-backface-visibility: visible;
     border-radius: 30px;
 }
@@ -8478,7 +8491,7 @@ Styles 4
 }
 
 .pie-chart h5 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 12px;
     font-weight: 500;
     text-align: center;
@@ -8486,7 +8499,7 @@ Styles 4
 }
 
 .pie-chart-md h5 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
     text-align: center;
@@ -8501,7 +8514,7 @@ Styles 4
 }
 
 .pie-chart-lg h5 {
-    color: #999;
+    color: #A9A9A9;
     font-size: 13px;
     font-weight: 500;
     text-align: center;

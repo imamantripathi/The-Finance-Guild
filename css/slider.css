@@ -1,10 +1,4 @@
-/*
-  Project Name : RedBiz
-  Author Company : SpecThemes
-  Project Date: 24 Feb, 2018
-  Template Developer: vsafaryan50@gmail.com
-*/
-
+ 
 
 /*-----------------------------------------
   Slider Container Options
@@ -107,7 +101,7 @@
   }
 }
 .slider-content h2{
-  font-size: 50px;
+  font-size: 42px;
   color: #fff;
   line-height: 1.4;
   font-weight: 600;
@@ -115,7 +109,7 @@
 
 @media screen and (max-width:767px) {
   .slider-content h2{
-    font-size: 25px;
+    font-size: 30px;
     color: #fff;
     line-height: 1.4;
     font-weight: 600;
@@ -123,15 +117,15 @@
 }
 
 .slider-content h3{
-  font-size: 45px;
-  color: #fff;
+  font-size: 35px;
+  color: #cecbcb;
   line-height: 1.4;
   font-weight: 600;
 }
 
 .slider-content p{
   font-size: 18px;
-  color: rgba(255, 255, 255, .7);
+  color: #fff;
   line-height: 1.9;
   font-weight: 400;
   max-width: 100%;

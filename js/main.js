@@ -202,6 +202,32 @@ $(document).ready(function () {
   })
 
 
+/*---------------------
+  Services carousel
+  -----------------------*/
+  $('#services-carousel-1').owlCarousel({
+    loop: false,
+    smartSpeed: 850,
+    responsiveClass: true,
+    dots: false,
+    nav: true,
+    navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+    responsive: {
+      0: {
+        items: 1,
+        margin: 15,
+      },
+      600: {
+        items: 2,
+        margin: 30,
+      },
+      1000: {
+        items: 3,
+        margin: 0,
+      }
+    }
+  })
+
   /*---------------------
   Services carousel 2
   -----------------------*/
@@ -353,7 +379,7 @@ $(document).ready(function () {
       spaceBetween: 0,
       loop: true,
       simulateTouch: true,
-      autoplay: 5000,
+      autoplay: 20000,
       speed: 1000,
       onSlideChangeEnd: function (swiper) {
         $('.swiper-slide').each(function () {
@@ -391,7 +417,7 @@ $(document).ready(function () {
       spaceBetween: 0,
       loop: true,
       simulateTouch: true,
-      autoplay: 5000,
+      autoplay: 20000,
       speed: 1000,
       onSlideChangeEnd: function (swiper) {
         $('.swiper-slide').each(function () {

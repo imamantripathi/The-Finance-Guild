@@ -65,7 +65,7 @@ TABLE OF CONTENT
 0. Imports
 -------------------------------------------*/
 @import url("navigation.css");
-
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500&display=swap');
 
 /*-----------------------------------------
 1. Sections
@@ -332,10 +332,11 @@ TABLE OF CONTENT
     font-size: 40px;
     font-weight: 600;
     letter-spacing: 1px;
-    line-height: 1;
+    line-height: 1.2;
     color: #fff;
     text-align: center;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .page-title-section ul li {
@@ -5979,7 +5980,7 @@ Top Video Section
     font-size: 15px;
     font-weight: 600;
     color: #111;
-    line-height: 1;
+    line-height: 1.2;
     display: block;
     padding: 20px 0px 25px 0px;
     border-radius: 0px;
@@ -6002,9 +6003,9 @@ Top Video Section
 }
 
 .accordion-body {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
-    color: #A9A9A9;
+    color: #818181;
     line-height: 170%;
     text-align: left;
     border: none !important;
